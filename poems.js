@@ -251,5 +251,72 @@ For toxic, it's not you it's not me it's us i exclaim
 For it lives in all of us i blame
 
 ~Kavlin Kaur`
+    },
+    {
+        title: "Outgrew",
+        slug: "outgrew",
+        content: `Outgrew 
+So growing up came with so many loopholes.
+Little did I know, this was just the start of all the ugh.
+Maybe my past heartbreaks weren’t just men
+Maybe they were the ones I once called friends.
+I know, I know.
+I’ve memorized how life unfolds.
+The ones you never expect?
+They sting the most.
+Maybe this
+this is what adulthood really feels like
+Leaving behind the people
+who once were your entire life.
+Not saying there’s beef.
+Not saying I’m mad.
+Maybe it just stings a little.
+Maybe it’s just... the feeling of being outgrown.
+People change.
+And yeah, they evolve. 
+Life rushes,
+shapes us into different forms.
+You made your choice.
+You made it vivid.
+Maybe it’s time
+I grow up a little too.
+
+~Kavlin Kaur`
+    },
+    {
+        title: "Abhor",
+        slug: "abhor",
+        content: `Abhor 
+To all the treachery that they claim,
+Maybe they twist my name to their maim.
+It’s hard to play in this crooked game,
+Where wrongs get worshiped, and lies earn fame.
+I know I should care less 
+But maybe it’s not in me to be this treacherous.
+I’ll say it once, I’ll say it more  
+I’m not your bait, not made to abhor.
+The woman they paint me as?
+She isn’t me 
+Their words don’t root from truth,
+But from envy’s tree.
+I’m no imposter, though they frame me so,
+Maybe it’s human to forget what good I sow.
+Their words shouldn’t pierce, I know,
+But when you’ve given your soul,
+Even silence can echo like a blow.
+I won’t say I’m fine,
+But the demons they name aren’t mine.
+My story it’s not theirs to define.
+Call me flawed, but not faithless  
+For being a bad friend was never my crime.
+Yes, I talk, I vent, maybe I gossip at times,
+But wasn’t I there when their souls needed light?
+I never mocked pain, never laughed at the ill,
+Yet when my own health faltered,
+They tossed their stones still.
+I might never forget this lesson for a lifetime, 
+But I guess this was needed for my right.  
+
+~Kavlin Kaur`
     }
 ]; 

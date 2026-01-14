@@ -255,8 +255,7 @@ For it lives in all of us i blame
     {
         title: "Outgrew",
         slug: "outgrew",
-        content: `Outgrew 
-So growing up came with so many loopholes.
+        content: `So growing up came with so many loopholes.
 Little did I know, this was just the start of all the ugh.
 Maybe my past heartbreaks weren’t just men
 Maybe they were the ones I once called friends.
@@ -286,8 +285,7 @@ I grow up a little too.
     {
         title: "Abhor",
         slug: "abhor",
-        content: `Abhor 
-To all the treachery that they claim,
+        content: `To all the treachery that they claim,
 Maybe they twist my name to their maim.
 It’s hard to play in this crooked game,
 Where wrongs get worshiped, and lies earn fame.
